@@ -1,5 +1,3 @@
 # WebSoda
 
----
-
 We are WebSoda!
